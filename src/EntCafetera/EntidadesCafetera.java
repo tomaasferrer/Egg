@@ -4,6 +4,7 @@ public class EntidadesCafetera {
 
     private int capacidadMaxima;
     private int cantidadActual;
+    private String atrib1;
 
     public EntidadesCafetera() {
     }
